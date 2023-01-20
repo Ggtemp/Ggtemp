@@ -3,18 +3,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =========================================================================================================================================
 
 
-<img align="right" alt="via GIPHY" width="400" src= "https://user-images.githubusercontent.com/80492848/213326884-07be33c4-33e9-4a54-9133-b6989d79a04d.gif"><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr"></a>
-
-
-
-
 
 - 🌍 I'm based in London
 - 🔭 I’m currently working on Cloud Computing(Azure)
 - 🌱 I’m currently learning JavaScript & Solidity
 - 💬 Ask me about diversity in tech.
-
-
+<img align="right" alt="via GIPHY" width="400" src= "https://user-images.githubusercontent.com/80492848/213326884-07be33c4-33e9-4a54-9133-b6989d79a04d.gif"><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr"></a>
 
 ### Skills
 
